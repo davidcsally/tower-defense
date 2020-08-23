@@ -1,6 +1,4 @@
-import kontra from 'kontra'
-
-const { init, Sprite, GameLoop } = kontra
+import { init, Sprite, GameLoop } from 'kontra'
 
 const { canvas } = init()
 
